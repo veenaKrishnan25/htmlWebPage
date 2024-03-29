@@ -41,6 +41,7 @@ img{
     text-decoration: none;
     color: var(--Dark-grayish-blue);
     transition: .5s color ease;
+    font-size: "inter";
 }
 .nav_list ul li a:hover{
     color: var(--Soft-red);
@@ -57,6 +58,7 @@ img{
     font-family: 'Inter', sans-serif;
     color: hsl(36, 100%, 99%);
     padding: 1em;
+    font-size: "inter";
   }
   .heading {
     font-size:2.5em ;
@@ -82,6 +84,7 @@ img{
     grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
     margin-top: 0.5rem;
+    font-size: "inter";
 }
 .hero_text h1{
     font-size: 3rem;
@@ -103,15 +106,18 @@ img{
     display: flex;
     gap:1rem;
     margin: 4rem 0;
+      font-size: "inter";
   }
   .new_article{
     display: flex;
     gap: 1rem;
+      font-size: "inter";
   }
   .new_article .content{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+      font-size: "inter";
     
   }
   .new_article img{
